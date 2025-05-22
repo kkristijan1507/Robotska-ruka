@@ -1,0 +1,13 @@
+Sheme za hardverski sklop:
+- robotska ruka - Hardware/Robotska_Ruka/Robotska_Ruka.kicad_sch
+- rukavica za upravljanje - Hardware/Rukavica/Rukavica.kicad_sch
+
+Softversko rješenje:
+- softver za pokretanje robotske ruke - Software/robotska_ruka/
+- softver za rad upravlja?ke rukavice - Software/upravljacka_rukavica/
+
+
+Testiranje:
+- za testiranje povratne vrijednosti senzora - Software/mapping_sensors/
+- za podešavanje radnog raspona motora radi prevencije ošte?enja modela ruke i komponenti - Software/servo_model_limit_tester/
+- prototipiranje rada multipleksora i senzora (radi manjka analognih ulaza u mikroupravlja?) - Software/ads_calibration/
